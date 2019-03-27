@@ -1,0 +1,17 @@
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\bin\Release\Kuto.dll
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Release\scrapping_with_kuto.MainForm.resources
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Release\scrapping_with_kuto.Properties.Resources.resources
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Release\scrapping_with_kuto.Splash.resources
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Release\scrapping_with_kuto.csproj.GenerateResource.cache
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Release\scrapping_with_kuto.csproj.CoreCompileInputs.cache
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Release\scrapping_with_kuto.csproj.CopyComplete
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Release\scrapping_with_kuto.csprojAssemblyReference.cache
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\bin\Release\biocapper.exe.config
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\bin\Release\biocapper.exe.manifest
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\bin\Release\biocapper.application
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\bin\Release\biocapper.exe
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\bin\Release\biocapper.pdb
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Release\biocapper.exe.manifest
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Release\biocapper.application
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Release\biocapper.exe
+C:\Users\Gotzman\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Release\biocapper.pdb
